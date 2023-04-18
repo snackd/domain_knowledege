@@ -1,7 +1,8 @@
-# Domain Knowledege Record
+# 編譯、直譯，靜態、動態語言
+
 ###### tags: `CS`
 
-[知識記錄](https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/HkwOZHUk3)
+[編譯、直譯 HackMD 記錄](https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/HkwOZHUk3)
 
 [TOC]
 
